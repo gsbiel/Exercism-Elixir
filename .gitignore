@@ -5,6 +5,7 @@
 /space-age/_build/
 /strain/_build/
 /resistor-color/_build/
+/two-fer/_build/
 
 # If you run "mix test --cover", coverage assets end up here.
 /hello-world/cover/
@@ -13,6 +14,7 @@
 /space-age/cover/
 /strain/cover/
 /resistor-color/cover/
+/two-fer/cover/
 
 # The directory Mix downloads your dependencies sources to.
 /hello-world/deps/
@@ -21,6 +23,7 @@
 /space-age/deps/
 /strain/deps/
 /resistor-color/deps/
+/two-fer/deps/
 
 # Where third-party dependencies like ExDoc output generated docs.
 /hello-world/doc/
@@ -29,6 +32,7 @@
 /space-age/doc/
 /strain/doc/
 /resistor-color/doc/
+/two-fer/doc/
 
 # Ignore .fetch files in case you like to edit your project deps locally.
 /hello-world/.fetch
@@ -37,6 +41,7 @@
 /space-age/.fetch
 /strain/.fetch
 /resistor-color/.fetch
+/two-fer/.fetch
 
 # If the VM crashes, it generates a dump, let's ignore it too.
 /hello-world/erl_crash.dump
@@ -45,6 +50,7 @@
 /space-age/erl_crash.dump
 /strain/erl_crash.dump
 /resistor-color/erl_crash.dump
+/two-fer/erl_crash.dump
 
 # Also ignore archive artifacts (built via "mix archive.build").
 /hello-world/*.ez
@@ -53,6 +59,7 @@
 /space-age/*.ez
 /strain/*.ez
 /resistor-color/*.ez
+/two-fer/*.ez
 
 # Ignore package tarball (built via "mix hex.build").
 /hello-world/hello_world-*.tar
@@ -61,4 +68,5 @@
 /space-age/space-age-*.tar
 /strain/strain-*.tar
 /resistor-color/resistor-color-*.tar
+/two-fer/two-fer-*.tar
 
